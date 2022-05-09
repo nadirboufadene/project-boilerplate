@@ -1,7 +1,7 @@
 # modaresa-test
 
 ## installation using docker
-```docker system prune -a && docker compose build && docker compose up frontend postgres pgadmin -d```
+```docker compose build && docker compose up frontend postgres pgadmin -d```
 
 Wait for postgres container to be up then
 
