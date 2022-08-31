@@ -1,4 +1,4 @@
-# modaresa-test
+# boilerplate
 
 ## installation using docker
 ```docker compose build && docker compose up frontend postgres pgadmin -d```
